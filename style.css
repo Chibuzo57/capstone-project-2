@@ -1,0 +1,13 @@
+.intro-page{
+    background-color:bisque;
+    text-decoration-color: bisque;
+}
+.coverpage{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.profile{
+    border-radius: 50%;
+}
